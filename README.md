@@ -22,7 +22,7 @@ This approach gives you full control over the code, similar to shadcn/ui:
 
 ```bash
 # Install the package
-pip install fastapi-query-builder
+pip install fastapi-sqlalchemy-query-builder
 
 # Initialize in your project (creates a local copy you can modify)
 query-builder init
@@ -33,7 +33,7 @@ This will create a `query_builder/` directory in your project with all the sourc
 ### Option 2: Direct Import
 
 ```bash
-pip install fastapi-query-builder
+pip install fastapi-sqlalchemy-query-builder
 ```
 
 Then import directly:
@@ -222,7 +222,7 @@ When a new version is released:
 
 ```bash
 # Update the package
-pip install --upgrade fastapi-query-builder
+pip install --upgrade fastapi-sqlalchemy-query-builder
 
 # Update your local copy (preserves customizations)
 query-builder update
