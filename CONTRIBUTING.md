@@ -54,7 +54,7 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/your-username/fastapi-query-builder.git
+   git clone https://github.com/Pedroffda/fastapi-query-builder.git
    cd fastapi-query-builder
    ```
 

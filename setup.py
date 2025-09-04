@@ -15,7 +15,7 @@ setup(
     description="A library for building SQLAlchemy queries with support for advanced filtering, sorting, text search, field and relationship selection, pagination, and model to Pydantic schema mapping",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/your-username/fastapi-query-builder",
+    url="https://github.com/Pedroffda/fastapi-query-builder",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",

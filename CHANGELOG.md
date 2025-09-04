@@ -51,5 +51,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CI/CD pipeline with GitHub Actions
 - Comprehensive documentation
 
-[Unreleased]: https://github.com/your-username/fastapi-query-builder/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/your-username/fastapi-query-builder/releases/tag/v1.0.0
+[Unreleased]: https://github.com/Pedroffda/fastapi-query-builder/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/Pedroffda/fastapi-query-builder/releases/tag/v1.0.0

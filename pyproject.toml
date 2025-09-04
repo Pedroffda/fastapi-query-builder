@@ -47,10 +47,10 @@ dev = [
 query-builder = "query_builder.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/your-username/fastapi-query-builder"
-Repository = "https://github.com/your-username/fastapi-query-builder"
-Documentation = "https://github.com/your-username/fastapi-query-builder#readme"
-"Bug Tracker" = "https://github.com/your-username/fastapi-query-builder/issues"
+Homepage = "https://github.com/Pedroffda/fastapi-query-builder"
+Repository = "https://github.com/Pedroffda/fastapi-query-builder"
+Documentation = "https://github.com/Pedroffda/fastapi-query-builder#readme"
+"Bug Tracker" = "https://github.com/Pedroffda/fastapi-query-builder/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
