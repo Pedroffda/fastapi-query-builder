@@ -1,0 +1,33 @@
+{
+  "name": "fastapi-query-builder",
+  "version": "1.0.0",
+  "description": "A library for building SQLAlchemy queries with support for advanced filtering, sorting, text search, field and relationship selection, pagination, and model to Pydantic schema mapping",
+  "author": "Pedro",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/fastapi-query-builder.git"
+  },
+  "keywords": [
+    "fastapi",
+    "sqlalchemy",
+    "query-builder",
+    "filtering",
+    "pagination",
+    "pydantic"
+  ],
+  "dependencies": {
+    "sqlalchemy": ">=1.4.0",
+    "fastapi": ">=0.68.0",
+    "pydantic": ">=1.8.0",
+    "starlette": ">=0.14.0"
+  },
+  "devDependencies": {
+    "pytest": ">=6.0",
+    "pytest-asyncio": ">=0.18.0",
+    "black": ">=21.0",
+    "isort": ">=5.0",
+    "flake8": ">=3.8",
+    "mypy": ">=0.910"
+  }
+}
