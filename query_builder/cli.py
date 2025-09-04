@@ -4,7 +4,7 @@ CLI tool for FastAPI Query Builder installation and customization
 
 import shutil
 from pathlib import Path
-from typing import Optional
+from typing import Optional, List
 
 
 class QueryBuilderCLI:

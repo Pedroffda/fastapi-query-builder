@@ -3,8 +3,8 @@ requires = ["setuptools>=45", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "fastapi-query-builder"
-version = "1.0.0"
+name = "fastapi-sqlalchemy-query-builder"
+version = "1.0.1"
 description = "A library for building SQLAlchemy queries with support for advanced filtering, sorting, text search, field and relationship selection, pagination, and model to Pydantic schema mapping"
 authors = [
     {name = "Pedro", email = "pedro@example.com"}

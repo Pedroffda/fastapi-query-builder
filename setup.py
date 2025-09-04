@@ -8,8 +8,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="fastapi-query-builder",
-    version="1.0.0",
+    name="fastapi-sqlalchemy-query-builder",
+    version="1.0.1",
     author="Pedro",
     author_email="pedro@example.com",
     description="A library for building SQLAlchemy queries with support for advanced filtering, sorting, text search, field and relationship selection, pagination, and model to Pydantic schema mapping",
